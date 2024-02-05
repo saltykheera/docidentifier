@@ -3,6 +3,11 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import make_pipeline
 import pandas as pd
+import tkinter as tk
+from tkinter import filedialog
+from PIL import Image, ImageTk
+import os
+
 nlp = spacy.load("en_core_web_sm")
 
 
@@ -91,17 +96,50 @@ y_train = [category for df, category in training_data for _ in df['Column_Name']
 model = make_pipeline(CountVectorizer(), MultinomialNB())
 model.fit(X_train, y_train)
 
-# Reading user file data
-file_path = input("Enter the path to the file: ")
 
-try:
-    with open(file_path, 'r') as file:
-        content = file.read()
-except FileNotFoundError:
-    print(f"File not found at path: {file_path}")
-except Exception as e:
-    print(f"Error reading file: {e}")
+# creating the gui reading the data
+def open_file():
+    file_path = filedialog.askopenfilename(title="Select a file", filetypes=[("Text files", "*.txt")])
+    if file_path:
+        prediction_file=None
+        try:
+            with open(file_path, 'r') as file:
+                content = file.read()
 
-processed_sent=" ".join([token.lemma_ for token in nlp(content)])
-prediction_file = model.predict([processed_sent])[0]
-print(f"The document belongs to the category of: {prediction_file}")
+            processed_sent = " ".join([token.lemma_ for token in nlp(content)])
+            prediction_file = model.predict([processed_sent])[0]
+
+            file_name = os.path.basename(file_path)
+            file_name_label.config(text=f"Selected File: {file_name}\nCategory: {prediction_file}")
+
+        except FileNotFoundError:
+            print(f"File not found at path: {file_path}")
+        except Exception as e:
+            print(f"Error reading file: {e}")
+
+
+root = tk.Tk()
+root.title("PRINT")
+
+
+root.geometry("400x200")  
+
+
+file_name_label = tk.Label(root, text="Selected File: None")
+file_name_label.pack(pady=10)
+
+
+image = Image.open("printer.png")
+image = image.resize((50, 50))  
+image_with_padding = Image.new('RGBA', (60, 60), (255, 255, 255, 0))  
+image_with_padding.paste(image, (5, 5))
+
+photo = ImageTk.PhotoImage(image_with_padding)
+
+
+open_button = tk.Button(root, image=photo, command=open_file, bd=1,relief="solid") 
+open_button.image = photo  
+open_button.pack(pady=10)
+
+
+root.mainloop()
