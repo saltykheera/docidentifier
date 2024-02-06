@@ -7,6 +7,7 @@ import tkinter as tk
 from tkinter import filedialog
 from PIL import Image, ImageTk
 import os
+import PyPDF2
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -99,12 +100,25 @@ model.fit(X_train, y_train)
 
 # creating the gui reading the data
 def open_file():
-    file_path = filedialog.askopenfilename(title="Select a file", filetypes=[("Text files", "*.txt")])
+    file_path = filedialog.askopenfilename(title="Select a file", filetypes=[("PDF files", "*.pdf")])
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    txt_file = os.path.join(current_directory, "output.txt")
+    
+    
     if file_path:
         prediction_file=None
         try:
-            with open(file_path, 'r') as file:
-                content = file.read()
+            with open(file_path, 'rb') as file:
+                pdf_reader= PyPDF2.PdfReader(file)
+                with open(txt_file,"w",encoding="utf-8") as t_file:
+                    for page in range(len(pdf_reader.pages)):
+                        page=pdf_reader.pages[page]
+                        text=page.extract_text()
+                        t_file.write(text)
+                    
+                
+            with open(txt_file,"r",encoding='utf-8') as r_file:
+                content=r_file.read()       
 
             processed_sent = " ".join([token.lemma_ for token in nlp(content)])
             prediction_file = model.predict([processed_sent])[0]
