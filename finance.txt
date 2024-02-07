@@ -1,0 +1,61 @@
+Assets
+Current assets:
+Cash
+Accounts Receivables
+Inventory
+Other Current Assets
+Total current assets
+Non-current assets:
+Property, plant and equipment
+Gross property, plant and equipment
+Accumulated depreciation
+Net property, plant and equipment
+Other Long Term Investments
+Other Assets
+Total non-current assets
+Total assets
+
+Liabilities
+Current liabilities:
+Short term debt
+Current portion of long term debt
+Accounts payable
+Taxes payable
+Other current liabilities
+Total current liabilities
+Non-current liabilities:
+Long term debt
+Other liabilities
+Total non-current liabilities
+Total liabilities
+
+Stockholders' equity
+Common Equity
+Accumulated Other Comprehensive Income/Loss
+Retained Earnings
+Total Stockholders' equity
+Total liabilities and stockholders' equity
+
+Check
+
+Revenue
+COGS (Excluding D&A)
+Gross Income
+Operating Expenses
+EBITDA
+Depreciation & Amortization
+EBIT
+Other Income/Expense
+Interest Expense
+EBT
+Taxes
+Net income
+
+Dividends1
+
+Interest earned on cash in the bank
+Rental income from a property
+Income from strategic partnerships like royalty payment receipts
+Income from an advertisement display located on the company's property
+
+

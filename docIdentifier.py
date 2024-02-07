@@ -64,6 +64,21 @@ with open("manuals.txt", 'r', encoding="utf-8") as file:
 manuals_lines = manuals_content.split('\n')
 df_manuals = pd.DataFrame(manuals_lines, columns=['Column_Name'])
 
+#education
+with open("education.txt", 'r', encoding="utf-8") as file:
+    education_content = file.read()
+
+education_lines = education_content.split('\n')
+df_education = pd.DataFrame(education_lines, columns=['Column_Name'])
+
+#finance
+with open("finance.txt", 'r', encoding="utf-8") as file:
+    finance_content = file.read()
+
+finance_lines = finance_content.split('\n')
+df_finance = pd.DataFrame(finance_lines, columns=['Column_Name'])
+
+
 # Research document
 with open("research.txt", 'r', encoding="utf-8") as file:
     research_content = file.read()
