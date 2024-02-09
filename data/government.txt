@@ -1,0 +1,627 @@
+ 
+ POLICY Title of Policy: “Policy on Adoption of Open Source
+Software for Government of India” Preamble Government of India (GoI)
+is implementing the Digital India programme as an umbrella programme
+to prepare India for a knowledge based transformation into a
+digitally empowered society and a knowle dge economy. Under the
+overarching vision of Digital India, GoI aims to make Government
+services digitally accessible to citizens in their localities and to
+ensure efficiency, transparency and reliability of such services at affordable
+costs. To meet this objective, there is a need to
+set up a commensurate hardware and software infrastructure, which may
+require significant resources. Organizations worldwide have adopted innovative alternative solutions
+in order to optimise cos ts by exploring avenues of
+“Open Source Software”. GoI has also been promoting the use
+of open source technologies in the eGovernance domain within the
+country i n order to leverage economic and strategic beneifts.
+Further, the National Policy on Information Technology, 2012 has mentioned,
+as one of its objectives, to “Adopt open standards and
+File Number (For Office Use Only) 
+  
+ promote open source and open technologies". F. No. 1(3)/2014 –
+EG II Ministry of Communication & Information Technology Department of
+Electronic s & Information Technology Page 2 of 8 In
+view of the above, there is a need to formulate
+a policy for the Government Organizations to adop t Open
+Source Software. The “Policy on Adoption of Open Source Software
+for Government of India” (hereinafter referred to as “Policy”) will
+encourage the formal adoption and use of Open Source Software
+(OSS) in Government Organizations. 1. Objectives To provide a policy
+framework for rapid and effective adoption of OSS To ensure
+strategic control in e-Governance applications and systems from a long-term
+perspective. To reduce the Total Cost of Ownership (TCO) of
+projects. 2. Definitions Refer Glossary (Page No. 7) F. No.
+1(3)/2014 – EG II Ministry of Communication & Information Technology
+Department of Electronics & Information Technology Page 3 of 8
+3. Policy Statement Government of India shall endeavour to adopt
+Open Source Software in all e-Governance systems imple mented by
+various Government organizations, as a preferred option in comparison to
+Closed Source Software (CSS). The Open Source Softwa re shall
+have the following characteristics: 3.1 The source code shall be
+available for the community / adopter / end-user to study
+and mo dify the software and to redistribute copies of
+either the original or modified software. 3.2 Source code shall
+be free from any royalty. 4. Nature of Compliance Mandatory
+5. Applicability The policy shall be applicable to all Government
+Organisations under the Central Gov ernments and those State Governments
+that choose to adopt this policy for the following categories
+of e-Governance systems: All new e-Governanc e applications and systems
+being considered for implementation. New versions of the legacy and
+existing systems. The Common Services Centers Scheme: Background 1.1 The
+Gov ernment of India has formulated the National E-Governance Plan
+with the v ision of providing all government services in
+an integrated manner at the doorste p of the citizen,
+at an affordable cost. The NeGP initiatives consist of 26
+Central, State and Integrated Mission Mode Projects (MMPs) along with
+8 other support components for rapid introduction of e-governance in
+the country. The NeGP envisions a three pillar model for
+delivery of “web-enabled Anytime, Anywhere access” to information and services
+in rural India. These are: a) Connectivity: State Wide Area
+Networks (SWANs)/NICNET b) National Data Bank/ State Data Centres (SDCs)
+c) Common Services Centers (CSCs) 1.2 The CSC Scheme, as
+approved by the Government of India, envisions CSCs as the
+front-end delivery points for Government, private and social sector services
+to rural citizens of India, in an inte grated manner.
+The objective is to develop a platform that can enable
+Government, private and social sector organiza tions to align their
+social and commercial goals for the benefit of the rural
+population in the remotest corners of the country through a
+combination of IT-based as well as non-IT-based services. 1.3 Thus,
+the CSCs cannot be seen as mere service delivery points
+in rural India. The CSC is positioned as a Change
+Agent - that would promote rural entrepreneur ship, build rural
+capacities and livelihoods, enable community participation and collective action for
+social change - through a bottom-up model with focus on
+the rural citizen. 1.4 Undertaking such a mammoth task calls
+for active partici pation and close interaction amongst various stakeholders
+such as State Governments, local bodies, opinion makers and a
+gencies/ institutions involved or having interest, commercial or otherwise, in
+rural areas/ markets. Under the CSC Scheme, a Public Private
+Partnership (PPP) model has been proposed for undertaking this challenging
+task and addressing the related issues in the most effective
+way. 12. The Implementation Framework 2.1 The CSC Scheme has
+a 3-tier implementation framework: a) At the first (CSC) level
+would be the local Village Level Entrepreneur (VLE- loosely analogous
+to a franchisee), to service the rural consumer in a
+ SCAs. 3. Other Agencies 3.1 The National Level Service Agenc
+y (NLSA): There are significant challenges in exploiting opportunities to
+achieve economies of scale in the identification, customizatio n and
+implementation of the physical and digital infrastructure required for the
+project. Further, many of the potential citizen-centric services wo uld
+lend themselves to aggregation at the national level. To enable
+the State-specific implementation plans to benefit from such economies of
+scale, aggregation of best practices, content providers, etc., the DIT
+would be appointing a National Level Service Agency (NLSA ).
+3.2 The Special Purpose Vehicle (SPV): In addition to the
+NLSA, an SPV has been proposed for the day-to-day monitoring
+of the CSC Scheme, in terms of channeling Government support,
+content aggregation, etc. While the SPV is proposed to be
+set up d uring the initial implementation phase of the
+Scheme, it is essentially an entity created to be an
+integral part of the CSC 24. Role of various Agencies
+ 
+GOVERNMENT OF INDIA, MINISTRY OF EXTERNAL AFFAIRS 
+ 
+PCC APPLICATION FORM 
+ 
+Please read the Passport Instruction Booklet carefully before filling the form. Fill this form in 
+CAPITAL LETTERS using blue/ black ink ball point pen only. Furnishing of incorrect information/ 
+suppression of information would lead to rejection of the application and would attract penal 
+provisions as prescribed under the Passports Act, 1967. Please produce your original documents at 
+the time of submission of the form. 
+ 
+Passport Number  
+   
+ 
+Date of Issue (DD-MM-YYYY) 
+Date of Expiry (DD-MM-YYYY) 
+ 
+ 
+ 
+Signature/ Left Hand Thumb 
+ 
+
+ 
+Impression of 
+Illiterate 
+ 
+Applicant and Minors who 
+ 
+
+Place of Issue 
+
+ 
+cannot sign. 
+
+ 
+Region/Country for which PCC is 
+required 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Applicant Details 
+ 
+1.1 Applicant's Given Name (Given Name means First name followed by Middle name (If any))(Initials not allowed) 
+  
+ 
+ 
+Surname 
+  
+ 
+ 
+ 
+ 
+ 
+1.2 Aadhaar Number 
+ 
+2. Family Details 
+ 
+2.1 Father's Given Name (Given Name means First name followed by Middle name (If any)) (Initials not allowed) 
+  
+ 
+ 
+Surname 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 7 
+ 
+ 
+ 2.2 Mother's Given Name (Given Name means First name followed by Middle name (If any)) (Initials not allowed) 
+ 
+ 
+Surname 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.3 Legal Guardian's Given Name (If applicable) (Initials not allowed) 
+ 
+ 
+ 
+Surname 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4 Spouse's Given Name (Given Name means First name followed by Middle name (If any)) (Initials not allowed) 
+ 
+ 
+ 
+ 
+Surname 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Present Residential Address Details 
+ 
+ 3.1 House No. and Street Name 
+ 
+ 
+ 
+Village or Town or City 
+ 
+ 
+ 
+ 
+ District 
+ 
+ 
+ 
+ Police Station 
+ 
+ 
+ 
+ State/ UT 
+ 
+ 
+ 
+ PIN 
+ 
+ 
+Mobile Number 
+Telephone Number 
+ 
+ 
+Page 2 of 7 
+ 
+ 
+E-mail ID 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 Is permanent address same as present address?    Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No (If no, provide details in Column 
+4 below) 
+  
+4. Permanent Residential Address (If it is different from present residential address) 
+House No. and Street Name 
+ 
+ 
+ 
+Village or Town or City 
+ 
+ 
+ 
+ 
+District 
+ 
+ 
+ 
+ 
+Police Station 
+ 
+ 
+ 
+ 
+State/ UT 
+ 
+ 
+ 
+ 
+Region/Country 
+ 
+ 
+ 
+ 
+PIN 
+ 
+ 
+ 
+ 
+Mobile Number 
+Telephone Number 
+ 
+ 
+ 
+ 
+E-mail ID 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 7 
+ 
+ 
+` 
+5. Other details 
+ 
+ 
+5.1 Provide the following details if there are any criminal proceedings 
+pending against the applicant. 
+ 
+5.1.1 
+Are any proceedings in respect of an offence alleged to have been 
+committed by you pending before a criminal court in India? 
+              If yes, fill Column 6.1 below 
+  
+5.1.2 
+Has any warrant or summons for your appearance been issued & pending 
+before a court under any law for the time being in force? 
+              If yes, fill Column 6.2 below 
+ 
+5.1.3 
+Has a warrant for your arrest been issued by a court under any law for the 
+time being in force? 
+              If yes, fill Column 6.3 below 
+ 
+5.1.4 
+Has an order prohibiting your departure from India been made by any 
+court? 
+              If yes, fill Column 6.4 below 
+ 
+5.2 Provide the following details if the applicant has been convicted by a 
+court in India. 
+ 
+5.2.1 
+Have you, at any time during the period of five years immediately 
+preceding the date of this application, been convicted by a court in India 
+for any offence involving moral turpitude and sentenced in respect thereof 
+to imprisonment for not less than two years? 
+If yes, fill Column 6.1 below 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.1 Provide the following details if there are proceedings in respect of an offence alleged to have 
+been committed by you pending before a criminal court in India and attach written permission from 
+competent court. 
+ Name of Court and Place 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case/ FIR/ Warrant Number 
+ 
+ 
+ 
+ 
+ 
+ Law and Section(s) 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 7 
+Yes 
+No 
+ 
+ 
+ 
+6.2 Provide the following details if there is any warrant or summons for your appearance been issued 
+& pending before a court under any law for the time being in force and attach written permission from 
+competent court. 
+ Name of Court and Place 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case/ FIR/ Warrant Number 
+ 
+ 
+ 
+ 
+ 
+ Law and Section(s) 
+ 
+ 
+ 
+ 
+ 
+ 
+6.3 Provide the following details if there is any warrant for your arrest been issued by a court under 
+any law for the time being in force and attach written permission from competent court. 
+ Name of Court and Place 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case/ FIR/ Warrant Number 
+ 
+ 
+ 
+ 
+ 
+ Law and Section(s) 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 7 
+ 
+ 
+ 
+ 
+ 
+6.4 Provide the following details if there is an order prohibiting your departure from India been made 
+by any court and attach written permission from competent court. 
+ Name of Court and Place 
+ 
+ 
+ 
+ 
+ 
+ 
+ Case/ FIR/ Warrant Number 
+ 
+ 
+ 
+ 
+ 
+ Law and Section(s) 
+ 
+ 
+ 
+ 
+ 
+ 
+6.5 Provide the following details if the applicant has been convicted by a court in India and attach 
+copy of judgement. 
+ Name of Court and Place 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case/ FIR/ Warrant Number 
+        
+ 
+ 
+ 
+ 
+ 
+ Date of Conviction (DD-MM-YYYY) 
+ 
+- 
+          - 
+ 
+  7. Enclosures 
+ 
+ 
+1. 
+6. 
+ 
+ 
+2. 
+7. 
+ 
+ 
+3. 
+8. 
+ 
+ 
+4. 
+9. 
+ 
+ 
+5. 
+10. 
+ 
+ 
+  
+ 
+ 
+Page 6 of 7 
+ 
+ 
+ 
+ 8. Self Declaration 
+I owe allegiance to the sovereignty, unity & integrity of India, and have not voluntarily acquired citizenship or 
+travel document of any other country.  I have not lost, surrendered or been deprived of the citizenship of 
+India.  I have not contravened any of the conditions relating to the possession and use of an Indian passport. 
+  
+I affirm that the information and particulars given by me in this form are true and correct.  I further state that I 
+am not suppressing any material information in this regard.  I further affirm that the enclosures and 
+documentary proof submitted in support of my application for an Indian passport are authentic and solely 
+pertain to me and I am fully responsible for the accuracy of the same.  I am liable to be penalized or 
+prosecuted if found otherwise.  I am aware that under the Passports Act, 1967 it is a criminal offence to 
+furnish any false information or to suppress any material information with a view to obtaining passport or 
+travel document. 
+  
+I have read and understood the contents of the above and by submitting this form certify that all the 
+information submitted by me in the form is bonafide.
+ 
+ Place 
+ 
+ 
+ Date (DD-MM-YYYY) 
+ 
+- 
+- 
+ 
+  
+Signature/ Left Hand 
+ 
+Thumb Impression of 
+  
+Applicant (If applicant is 
+ 
+minor either parent to 
+ 
+sign) 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 7 

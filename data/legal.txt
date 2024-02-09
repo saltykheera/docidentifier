@@ -1,0 +1,158 @@
+ Terms
+Service provider
+Google services are provided by, and you’re contracting with:
+
+Google LLC
+organized under the laws of the State of Delaware, USA, and operating under the laws of the USA
+
+1600 Amphitheatre Parkway
+Mountain View, California 94043
+USA
+
+Age requirements
+If you’re under the age required to manage your own Google Account, you must have your parent or legal guardian’s permission to use a Google Account. Please have your parent or legal guardian read these terms with you.
+
+If you’re a parent or legal guardian, and you allow your child to use the services, then these terms apply to you and you’re responsible for your child’s activity on the services.
+
+Some Google services have additional age requirements as described in their service-
+
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+Preamble
+The GNU General Public License is a free, copyleft license for software and other kinds of works.
+
+The licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users. We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors. You can apply it to your programs, too.
+
+When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
+
+To protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights. Therefore, you have certain responsibilities if you distribute copies of the software, or if you modify it: responsibilities to respect the freedom of others.
+
+THE LICENSED WORK IS PROVIDED UNDER THE TERMS OF THIS ADAPTIVE PUBLIC LICENSE (“LICENSE“). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE LICENSED WORK CONSTITUTES RECIPIENT’S ACCEPTANCE OF THIS LICENSE AND ITS TERMS, WHETHER OR NOT SUCH RECIPIENT READS THE TERMS OF THIS LICENSE. “LICENSED WORK” AND “RECIPIENT” ARE DEFINED BELOW.
+
+IMPORTANT NOTE: This License is “adaptive”, and the generic version or another version of an Adaptive Public License should not be relied upon to determine your rights and obligations under this License. You must read the specific Adaptive Public License that you receive with the Licensed Work, as certain terms are defined at the outset by the Initial Contributor.
+
+See Section 2.2 below, Exhibit A attached, and any Suppfile.txt accompanying this License to determine the specific adaptive features applicable to this License. For example, without limiting the foregoing, (a) for selected choice of law and jurisdiction see Part 3 of Exhibit A; (b) for the selected definition of Third Party see Part 4 of Exhibit A; and (c) for selected patent licensing terms (if any) see Section 2.2 below and Part 6 of Exhibit A.
+
+
+
+TERMS OF USE 
+ 
+Page 1 of 3 
+ 
+AvaTrade is pleased to provide you with the information, content, tools, products and services on all 
+www.avatrade.com. These Terms of Use also include important disclosures and information related 
+to certain products and services. Your use of www.avatrade.com is subject to these Terms of Use. 
+These Terms of Use are a binding agreement between you and www.avatrade.com. Your access to 
+and use of www.avatrade.com constitutes your acceptance of these Terms of Use and any other 
+legal notices and statements contained on www.avatrade.com. AvaTrade may modify these Terms 
+of Use at any time and without prior notice. Your continued access to and use of www.avatrade.com 
+constitutes your acceptance of these Terms of Use as modified. 
+When you access to this site, please check if the product service is not in violation of the regulation 
+in your residence country before using instruments or service on our web site. Our service is 
+available only where it is legal in your residence country. 
+ 
+1. 
+INFORMATION ON WWW.AVATRADE.COM  
+1.1. 
+The information on www.avatrade.com is based on data received from available and 
+recognized and reliable sources, third party content and research. However, the information 
+has not been verified and/or checked by us, and we make no pretensions to presenting it as 
+complete, accurate, or reliable. 
+1.2. 
+While AvaTrade has made every effort to ensure the accuracy of the information on 
+www.avatrade.com, the information and content on www.avatrade.com is subject to change 
+without notice and is provided for the sole purpose of assisting traders to make independent 
+investment decisions. AvaTrade does not guarantee the accuracy of the information, and will 
+not accept liability for any loss or damage that may arise directly or indirectly from the content 
+or your inability to access www.avatrade.com, for any delay in or failure of the transmission 
+or the receipt of any instruction or notifications sent through www.avatrade.com. 
+1.3. 
+All content on www.avatrade.com is presented only as of the date published or indicated, and 
+may be superseded by subsequent market events or for other reasons. 
+1.4. 
+In all cases of contradiction and/or incompatibility between the information appearing in 
+www.avatrade.com and the information recorded in AvaTrade�s books, the information 
+recorded in AvaTrade's books shall take precedence. AvaTrade shall not bear responsibility for 
+damage and/or losses of any kind liable to be caused as a result of reliance on the information 
+appearing in www.avatrade.com. 
+ 
+ 
+ 
+ 
+ 
+TERMS OF USE 
+ 
+Page 2 of 3 
+ 
+2. 
+COPYRIGHT 
+2.1. 
+www.avatrade.com, the information, programs that may be downloaded from 
+www.avatrade.com and additional elements advertised on www.avatrade.com, are subject to 
+and protected by the international copyright laws. 
+2.2. 
+Use of www.avatrade.com is subject to making fair use only in accordance with these laws. It 
+is not permitted to copy, change, distribute, or make commercial use of the information 
+except with permission of the holders of the copyright. 
+3. 
+THIRD PARTY PROGRAMS 
+www.avatrade.com may permit the downloading of programs. www.avatrade.com and/or 
+the software manufacturer are not responsible for damage of any kind liable to be caused as 
+a result of the said downloading of programs and/or as a result of use of any program 
+downloaded from www.avatrade.com. 
+ 
+4. 
+CUSTOMER'S UNDERTAKING REGARDING THE TERMS 
+OF USE AND THE VALIDITY OF AGREEMENTS 
+These Terms of Use are in addition to the contract signed between AvaTrade and the 
+Customer, and these Terms of Use do not change or cancel any condition of the contract. 
+ 
+5. 
+USE OF LINKS 
+www.avatrade.com may contain links to websites operated by other parties. AvaTrade does 
+not control the content or accuracy of information on such websites and does not otherwise 
+endorse the material placed on such sites. The links are provided for your reference only and 
+AvaTrade excludes all liability and responsibility for the content or operation of these 
+websites. 
+ 
+6. 
+DISCLAIMER AND LIMITATION OF LIABILITY 
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, AVATRADE WILL NOT BE LIABLE FOR ANY 
+CONSEQUENTIAL, INCIDENTAL, SPECIAL, DIRECT, OR INDIRECT DAMAGES (INCLUDING BUT 
+NOT LIMITED TO LOST PROFITS, TRADING LOSSES OR DAMAGES THAT RESULT FROM USE OR 
+LOSS OF USE OF WWW.AVATRADE.COM AND THIRD PARTY CONTENT, INCONVENIENCE OR 
+DELAY). THIS IS TRUE EVEN IF AVATRADE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES OR LOSSES. EXCEPT AS OTHERWISE REQUIRED BY LAW, AVATRADE WILL NOT BE 
+LIABLE TO YOU OR ANYONE ELSE FOR ANY LOSS RESULTING FROM A CAUSE OVER WHICH 
+SUCH AVATRADE DOES NOT HAVE DIRECT CONTROL. THIS INCLUDES FAILURE OF 
+ 
+TERMS OF USE 
+ 
+Page 3 of 3 
+ 
+ELECTRONIC OR MECHANICAL EQUIPMENT OR COMMUNICATIONS LINES (INCLUDING 
+TELEPHONE, CABLE AND INTERNET), UNAUTHORIZED ACCESS, VIRUSES, THEFT, OPERATOR 
+ERRORS, SEVERE OR EXTRAORDINARY WEATHER (INCLUDING FLOOD, EARTHQUAKE, OR 
+OTHER ACT OF GOD), FIRE, WAR, INSURRECTION, TERRORIST ACT, RIOT, LABOR DISPUTE 
+AND OTHER LABOR PROBLEMS, ACCIDENT, EMERGENCY OR ACTION OF GOVERNMENT. 
+ 
+7. 
+INDEMNIFICATION 
+As a condition of your use of www.avatrade.com, you agree to indemnify and hold AvaTrade 
+and its Third Party Content providers harmless from and against any and all claims, losses, 
+liability, costs and expenses (including but not limited to attorneys' fees) arising from your 
+use of www.avatrade.com, or from your violation of these Terms. 

@@ -12,30 +12,29 @@ import PyPDF2
 nlp = spacy.load("en_core_web_sm")
 
 
-
 # Reading content from "creative.txt" and creating DataFrame
-with open("creative.txt", 'r', encoding="utf-8") as file:
+with open("data/creative.txt", 'r', encoding="utf-8") as file:
     creative_content = file.read()
 
 creative_lines = creative_content.split('\n')
 df_creative = pd.DataFrame(creative_lines, columns=['Column_Name'])
 
 # Reading content from "government.txt" and creating DataFrame
-with open("government.txt", 'r', encoding="utf-8") as file:
+with open("data/government.txt", 'r', encoding="utf-8") as file:
     government_content = file.read()
 
 government_lines = government_content.split('\n')
 df_government = pd.DataFrame(government_lines, columns=['Column_Name'])
 
 #legal document
-with open("legal.txt", 'r', encoding="utf-8") as file:
+with open("data/legal.txt", 'r', encoding="latin-1") as file:
     legal_content = file.read()
 
 legal_lines = legal_content.split('\n')
 df_legal = pd.DataFrame(legal_lines, columns=['Column_Name'])
 
 #medical document 
-with open("medical.txt", 'r', encoding="utf-8") as file:
+with open("data/medical.txt", 'r', encoding="latin-1") as file:
     medical_content = file.read()
 
 medical_lines = medical_content.split('\n')
@@ -44,35 +43,35 @@ df_medical = pd.DataFrame(medical_lines, columns=['Column_Name'])
 
 
 # Business document
-with open("business.txt", 'r', encoding="utf-8") as file:
+with open("data/business.txt", 'r', encoding="latin-1") as file:
     business_content = file.read()
 
 business_lines = business_content.split('\n')
 df_business = pd.DataFrame(business_lines, columns=['Column_Name'])
 
 # News document
-with open("news.txt", 'r', encoding="utf-8") as file:
+with open("data/news.txt", 'r', encoding="latin-1") as file:
     news_content = file.read()
 
 news_lines = news_content.split('\n')
 df_news = pd.DataFrame(news_lines, columns=['Column_Name'])
 
 # Manuals document
-with open("manuals.txt", 'r', encoding="utf-8") as file:
+with open("data/manuals.txt", 'r', encoding="latin-1") as file:
     manuals_content = file.read()
 
 manuals_lines = manuals_content.split('\n')
 df_manuals = pd.DataFrame(manuals_lines, columns=['Column_Name'])
 
 #education
-with open("education.txt", 'r', encoding="utf-8") as file:
+with open("data/education.txt", 'r', encoding="latin-1") as file:
     education_content = file.read()
 
 education_lines = education_content.split('\n')
 df_education = pd.DataFrame(education_lines, columns=['Column_Name'])
 
 #finance
-with open("finance.txt", 'r', encoding="utf-8") as file:
+with open("data/finance.txt", 'r', encoding="latin-1") as file:
     finance_content = file.read()
 
 finance_lines = finance_content.split('\n')
@@ -80,7 +79,7 @@ df_finance = pd.DataFrame(finance_lines, columns=['Column_Name'])
 
 
 # Research document
-with open("research.txt", 'r', encoding="utf-8") as file:
+with open("data/research.txt", 'r', encoding="latin-1") as file:
     research_content = file.read()
 
 research_lines = research_content.split('\n')
@@ -100,7 +99,9 @@ training_data = [
     (df_medical, "medical"),
     (df_manuals, "manuals"),
     (df_research, "research"),
-    (df_government,"government")
+    (df_government,"government"),
+    (df_education,"education"),
+    (df_finance,"finance")
 ]
 
 # Tokenizing and lemmatizing the training data

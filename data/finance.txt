@@ -36,7 +36,6 @@ Retained Earnings
 Total Stockholders' equity
 Total liabilities and stockholders' equity
 
-Check
 
 Revenue
 COGS (Excluding D&A)
@@ -52,10 +51,3 @@ Taxes
 Net income
 
 Dividends1
-
-Interest earned on cash in the bank
-Rental income from a property
-Income from strategic partnerships like royalty payment receipts
-Income from an advertisement display located on the company's property
-
-
